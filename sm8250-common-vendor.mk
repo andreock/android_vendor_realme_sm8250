@@ -1300,11 +1300,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/sm8250-common/proprietary/odm/firmware/barca_alarm_ring_RTP_120.bin:$(TARGET_COPY_OUT_ODM)/firmware/barca_alarm_ring_RTP_120.bin \
     vendor/realme/sm8250-common/proprietary/odm/firmware/barca_incoming_ring_RTP_121.bin:$(TARGET_COPY_OUT_ODM)/firmware/barca_incoming_ring_RTP_121.bin \
     vendor/realme/sm8250-common/proprietary/odm/firmware/barca_notice_ring_RTP_122.bin:$(TARGET_COPY_OUT_ODM)/firmware/barca_notice_ring_RTP_122.bin \
-    vendor/realme/sm8250-common/proprietary/odm/lib/libhaptic_effect.so:$(TARGET_COPY_OUT_ODM)/lib/libhaptic_effect.so \
-    vendor/realme/sm8250-common/proprietary/odm/lib/libhwdap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib/libhwdap_v3_6.so \
-    vendor/realme/sm8250-common/proprietary/odm/lib/libozoprocessing.so:$(TARGET_COPY_OUT_ODM)/lib/libozoprocessing.so \
-    vendor/realme/sm8250-common/proprietary/odm/lib/libswdap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib/libswdap_v3_6.so \
-    vendor/realme/sm8250-common/proprietary/odm/lib/libswgamedap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib/libswgamedap_v3_6.so \
     vendor/realme/sm8250-common/proprietary/odm/lib/vendor.oplus.hardware.osense.client@1.0.so:$(TARGET_COPY_OUT_ODM)/lib/vendor.oplus.hardware.osense.client@1.0.so \
     vendor/realme/sm8250-common/proprietary/odm/lib64/vendor.oplus.hardware.osense.client@1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.osense.client@1.0.so \
     vendor/realme/sm8250-common/proprietary/odm/lib/libosensehalclient.so:$(TARGET_COPY_OUT_ODM)/lib/libosensehalclient.so \
