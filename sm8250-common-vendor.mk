@@ -1307,6 +1307,8 @@ PRODUCT_COPY_FILES += \
     vendor/realme/sm8250-common/proprietary/odm/lib/libswgamedap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib/libswgamedap_v3_6.so \
     vendor/realme/sm8250-common/proprietary/odm/lib/vendor.oplus.hardware.osense.client@1.0.so:$(TARGET_COPY_OUT_ODM)/lib/vendor.oplus.hardware.osense.client@1.0.so \
     vendor/realme/sm8250-common/proprietary/odm/lib64/vendor.oplus.hardware.osense.client@1.0.so:$(TARGET_COPY_OUT_ODM)/lib64/vendor.oplus.hardware.osense.client@1.0.so \
+    vendor/realme/sm8250-common/proprietary/odm/lib/libosensehalclient.so:$(TARGET_COPY_OUT_ODM)/lib/libosensehalclient.so \
+    vendor/realme/sm8250-common/proprietary/odm/lib64/libosensehalclient.so:$(TARGET_COPY_OUT_ODM)/lib64/libosensehalclient.so \
     vendor/realme/sm8250-common/proprietary/odm/lib64/libhaptic_effect.so:$(TARGET_COPY_OUT_ODM)/lib64/libhaptic_effect.so \
     vendor/realme/sm8250-common/proprietary/odm/lib64/libhwdap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib64/libhwdap_v3_6.so \
     vendor/realme/sm8250-common/proprietary/odm/lib64/libozoprocessing.so:$(TARGET_COPY_OUT_ODM)/lib64/libozoprocessing.so \
