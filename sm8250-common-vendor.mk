@@ -2497,8 +2497,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     QtiTelephonyService \
     imssettings \
-    DaxUI \
-    daxService \
     uceShimService \
     dpmserviceapp \
     ims \
