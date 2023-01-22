@@ -1305,10 +1305,10 @@ PRODUCT_COPY_FILES += \
     vendor/realme/sm8250-common/proprietary/odm/lib/libosensehalclient.so:$(TARGET_COPY_OUT_ODM)/lib/libosensehalclient.so \
     vendor/realme/sm8250-common/proprietary/odm/lib64/libosensehalclient.so:$(TARGET_COPY_OUT_ODM)/lib64/libosensehalclient.so \
     vendor/realme/sm8250-common/proprietary/odm/lib64/libhaptic_effect.so:$(TARGET_COPY_OUT_ODM)/lib64/libhaptic_effect.so \
-    vendor/realme/sm8250-common/proprietary/odm/lib64/libhwdap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib64/libhwdap_v3_6.so \
-    vendor/realme/sm8250-common/proprietary/odm/lib64/libozoprocessing.so:$(TARGET_COPY_OUT_ODM)/lib64/libozoprocessing.so \
-    vendor/realme/sm8250-common/proprietary/odm/lib64/libswdap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib64/libswdap_v3_6.so \
-    vendor/realme/sm8250-common/proprietary/odm/lib64/libswgamedap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib64/libswgamedap_v3_6.so \
+    vendor/realme/sm8250-common/proprietary/odm/lib64/soundfx/libhwdap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib64/soundfx/libhwdap_v3_6.so \
+    vendor/realme/sm8250-common/proprietary/odm/lib64/soundfx/libozoprocessing.so:$(TARGET_COPY_OUT_ODM)/lib64/soundfx/libozoprocessing.so \
+    vendor/realme/sm8250-common/proprietary/odm/lib64/soundfx/libswdap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib64/soundfx/libswdap_v3_6.so \
+    vendor/realme/sm8250-common/proprietary/odm/lib64/soundfx/libswgamedap_v3_6.so:$(TARGET_COPY_OUT_ODM)/lib64/soundfx/libswgamedap_v3_6.so \
     vendor/realme/sm8250-common/proprietary/odm/lib/libDeVIS.so:$(TARGET_COPY_OUT_ODM)/lib/libDeVIS.so \
     vendor/realme/sm8250-common/proprietary/odm/lib/libc++_shared.so:$(TARGET_COPY_OUT_ODM)/lib/libc++_shared.so \
     vendor/realme/sm8250-common/proprietary/odm/lib/rfsa/adsp/aiboost/libaiboostsr_skel_v66.so:$(TARGET_COPY_OUT_ODM)/lib/rfsa/adsp/aiboost/libaiboostsr_skel_v66.so \
